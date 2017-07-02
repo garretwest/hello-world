@@ -1,2 +1,5 @@
 # hello-world
-First repo
+
+Hello!
+
+First repo on GitHub...just learning the tool :)
